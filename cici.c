@@ -6,4 +6,6 @@ int main(void){
     printf("%d",mama);
 
     printf("Oh my god");
+
+    printf("hihi");
 }
